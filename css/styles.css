@@ -1,0 +1,187 @@
+body {
+    font-family: 'Roboto', sans-serif
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+
+.header {
+    background-color: #E7E9FC;
+}
+
+.header-title {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.header-title-half {
+    color: #4D5AE5;
+}
+
+.header-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.header-link:hover {
+    color: #404BBF 
+}
+
+.header-link:focus {
+    color: #404BBF 
+}
+
+.header-address-link {
+    font-size: 16px;
+    line-height: 1.5
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-address-link:hover {
+    color: #404BBF 
+}
+
+.header-address-link:focus {
+    color: #404BBF 
+}
+
+/* HERO */
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.hero-btn { 
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background: #4D5AE5;
+    cursor: pointer;
+}
+
+.hero-btn:hover {
+    background-color: #404BBF;
+}
+
+.hero-btn:focus {
+    background-color: #404BBF;
+}
+
+/* GOAL */
+
+
+.goal-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.goal-text {
+    font-size: 16px;
+    line-height: 1.5
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* ABOUT */
+
+.about-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+/* TEAM */
+
+.team {
+    background-color: #F4F4FD;;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: 1.5
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-title {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
+
+.footer-title-half {
+    color: #4D5AE5;
+}
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
