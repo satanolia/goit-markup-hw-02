@@ -83,12 +83,10 @@ body {
     color:var(--hightlight-color)
 }
 
-.header-address {
-    font-style: normal;
-}
 
 .header-address-link {
     font-size: 16px;
+    font-style: normal;
     line-height:1.5;
     letter-spacing:0.02em;
     color:var(--second-text-color);
@@ -187,9 +185,9 @@ font-size: 16px;
 line-height: 1.5;
 display: flex;
 color:var(--header-title-color);
-background-color: #E7E9FC 
+background-color: #E7E9FC;
 border-radius: 4px;
-cursor: pointer
+cursor: pointer;
 padding: 12px 24px;
 width: 101px;
 height: 48px;
