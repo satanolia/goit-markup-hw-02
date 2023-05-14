@@ -100,6 +100,9 @@ body {
     color:var(--hightlight-color)
 }
 
+.header-address-item {
+    font-style: normal;
+}
 /* HERO */
 
 .hero {
@@ -184,6 +187,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 display: flex;
+letter-spacing: 0.04em;
 color:var(--header-title-color);
 background-color: #E7E9FC;
 border-radius: 4px;
