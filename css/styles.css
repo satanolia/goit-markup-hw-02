@@ -84,7 +84,6 @@ body {
 }
 
 .header-address {
-
     font-style: normal;
 }
 
@@ -146,7 +145,7 @@ body {
     background-color:var(--second-background-color);
 }
 
-.team-list {
+.team-item {
     background-color: #FFFFFF;
 }
 /* FOOTER */
@@ -200,9 +199,11 @@ border-radius: 4px;
 }
 
 .navigation-btn:hover {
+    color: var(--background-color);
     background-color: var(--hightlight-color)
 }
 
 .navigation-btn:focus {
+    color: var(--background-color);
     background-color: var(--hightlight-color)
 }
