@@ -92,6 +92,10 @@ body {
     color:var(--second-text-color);
 }
 
+.header-address-list {
+    font-style: normal;
+}
+
 .header-address-link:hover {
     color:var(--hightlight-color)
 }
@@ -100,9 +104,10 @@ body {
     color:var(--hightlight-color)
 }
 
-.header-address-item {
+.header-address {
     font-style: normal;
 }
+
 /* HERO */
 
 .hero {
