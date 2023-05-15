@@ -46,10 +46,6 @@ body {
 }
 
 
-.header {
-    background-color: #E7E9FC;
-}
-
 .header-title {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -92,9 +88,6 @@ body {
     color:var(--second-text-color);
 }
 
-.header-address-list {
-    font-style: normal;
-}
 
 .header-address-link:hover {
     color:var(--hightlight-color)
@@ -102,10 +95,6 @@ body {
 
 .header-address-link:focus {
     color:var(--hightlight-color)
-}
-
-.header-address {
-    font-style: normal;
 }
 
 /* HERO */
@@ -198,8 +187,6 @@ background-color: #E7E9FC;
 border-radius: 4px;
 cursor: pointer;
 padding: 12px 24px;
-width: 101px;
-height: 48px;
 background:var(--second-background-color);
 border: 1px solid #E7E9FC;
 border-radius: 4px;
